@@ -135,7 +135,10 @@ export default function SerenaSail() {
         <div className="text-center mb-20">
           <span className="bg-cyan-500/10 text-cyan-400 text-xs font-black px-4 py-2 rounded-full uppercase tracking-widest border border-cyan-500/20">Shipping Solutions</span>
           <h2 className="text-6xl md:text-7xl font-bold mt-8 uppercase italic">Layanan Kami</h2>
-          <p className="text-gray-400 mt-6 max-w-3xl mx-auto text-xl md:text-2xl font-light leading-relaxed">Harga akhir ditentukan berdasarkan standar pengemasan keamanan tinggi dan rute jarak tempuh barang dari lokasi jemput ke tujuan.</p>
+          <p className="text-gray-400 mt-6 max-w-3xl mx-auto text-xl md:text-2xl font-light leading-relaxed">Standar pengemasan dengan integrasi logistik maritim yang presisi.
+                Kami memastikan setiap kargo melalui rute pelayaran terefisiensi dengan
+                protokol keamanan berlapis untuk menjamin integritas aset Anda hingga
+                destinasi akhir.</p>
         </div>
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-10">
           <ServiceCard size="Small" price="Rp 250.000" desc="Pengiriman dokumen penting atau paket kecil dengan perlindungan kedap air." details="Berdasarkan pengemasan standar & rute domestik." />
