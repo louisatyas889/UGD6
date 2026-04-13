@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Tambahkan ini untuk background default agar tidak putih */
+
 body {
   background-color: #0E0E0E;
   color: white;
